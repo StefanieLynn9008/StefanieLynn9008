@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Stefanie!
+- 👀 I’m interested in reading, learning, and growing in my coding skills
+- 🌱 I’m currently learning the basics, HTML, CSS, and JavaScript
+- 📫 How to reach me: stefanielynn9008@gmail.com
